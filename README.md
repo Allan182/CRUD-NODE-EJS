@@ -1,3 +1,3 @@
 # CRUD-NODE-EJS
 
-Este projeto representa a aplicação dos conceitos de desenvolvimento web utilizando Node.js, Express, EJS e MySQL seguindo a arquitetura MVC (Model-View-Controller). 
+Foi projetado um Portal de Notícias representando a aplicação dos conceitos de desenvolvimento web utilizando Node.js, Express, EJS e MySQL seguindo a arquitetura MVC (Model-View-Controller).
